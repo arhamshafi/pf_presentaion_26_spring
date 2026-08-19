@@ -1,3 +1,9 @@
+
+
+// Ahmad Mughal
+// Abdullah Mughal
+// Faizan Mehar
+
 #include <cstdlib>
 #include <fstream>
 #include <iomanip>
