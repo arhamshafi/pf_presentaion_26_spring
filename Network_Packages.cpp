@@ -2,6 +2,9 @@
 // Abudul-Rehman
 // Fatima
 
+// ( DUO )
+//===================================
+
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>

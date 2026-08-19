@@ -1,6 +1,9 @@
 // Abu-Bakar Azhar
 // Rabia
 
+// ( DUO )
+//==========================
+
 #include <cstdlib>
 #include <ctime>
 #include <iostream>
